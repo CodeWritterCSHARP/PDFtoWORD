@@ -1,0 +1,10 @@
+D:\Docx-PDF\ExeFrame\ExeFrame\bin\Debug\ExeFrame.exe.config
+D:\Docx-PDF\ExeFrame\ExeFrame\bin\Debug\ExeFrame.exe
+D:\Docx-PDF\ExeFrame\ExeFrame\bin\Debug\ExeFrame.pdb
+D:\Docx-PDF\ExeFrame\ExeFrame\obj\Debug\ExeFrame.csprojAssemblyReference.cache
+D:\Docx-PDF\ExeFrame\ExeFrame\obj\Debug\ExeFrame.Form1.resources
+D:\Docx-PDF\ExeFrame\ExeFrame\obj\Debug\ExeFrame.Properties.Resources.resources
+D:\Docx-PDF\ExeFrame\ExeFrame\obj\Debug\ExeFrame.csproj.GenerateResource.cache
+D:\Docx-PDF\ExeFrame\ExeFrame\obj\Debug\ExeFrame.csproj.CoreCompileInputs.cache
+D:\Docx-PDF\ExeFrame\ExeFrame\obj\Debug\ExeFrame.exe
+D:\Docx-PDF\ExeFrame\ExeFrame\obj\Debug\ExeFrame.pdb
